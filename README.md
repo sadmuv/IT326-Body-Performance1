@@ -22,3 +22,8 @@ This dataset was selected because it contains real-world physical performance me
 - Number of Records: More than 13,000
 - Number of Attributes: 12
 - Class Label: class (A, B, C, D)
+## team members 
+- haifa alsulami
+- aryam almazhari
+- dalia almutairi
+- Sadeem Aldukhayil
